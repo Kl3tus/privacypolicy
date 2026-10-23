@@ -3,7 +3,7 @@
 **Effective Date:** October 22, 2026  
 **Last Updated:** October 22, 2026  
 **Publisher / Developer:** Solid Take Games  
-**Contact Email:** Mikel.bryan97@gmail.com  
+**Contact Email:** solidtakegames@gmail.com  
 
 Solid Take Games ("we," "our," or "us") is dedicated to protecting the privacy of our players. This Privacy Policy outlines how your information is handled when you download, install, and play **Orbital Slice: Space Roguelite** ("the Game") on Android devices via Google Play.
 
@@ -49,4 +49,4 @@ You can reset or opt out of personalized ads at any time via your Android device
 ### 6. Contact Us
 If you have any questions or inquiries regarding this Privacy Policy or your data, please contact Solid Take Games:
 - **Developer:** Solid Take Games
-- **Support Email:** Mikel.bryan97@gmail.com
+- **Support Email:** Solidtakegames@gmail.com
