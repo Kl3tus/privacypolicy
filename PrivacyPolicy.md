@@ -1,35 +1,28 @@
-# Privacy Policy for Solid Take Games Applications
+# Privacy Policy for TextureSnap: 3D Scanner & PBR
 
 **Effective Date:** October 22, 2026  
 **Last Updated:** November 1, 2026  
 **Publisher / Developer:** Solid Take Games  
 **Contact Email:** solidtakegames@gmail.com  
 
-Solid Take Games ("we," "our," or "us") is dedicated to protecting the privacy of our players and users. This Privacy Policy outlines how your information is handled when you download, install, and use applications developed by Solid Take Games, including:
-- **TextureSnap: 3D Scanner & PBR** (`com.solidtakegames.texturesnap`)
-- **Orbital Slice: Space Roguelite**
-- Tactical Field Military Watchfaces & Utilities
+Solid Take Games ("we," "our," or "us") is dedicated to protecting the privacy of our users. This Privacy Policy outlines how your information is handled when you download, install, and use **TextureSnap: 3D Scanner & PBR** ("the App") on Android devices via Google Play.
 
 ---
 
 ### 1. Information We Collect and Process
+TextureSnap is engineered with a strict offline-first, privacy-respecting architecture. We do not require registration, log-ins, or account creation. We do not collect or store personal identifiable information (such as your legal name, physical address, email address, or phone number).
 
-Solid Take Games applications are built with an offline-first, privacy-respecting architecture. We do not require account registration, and we do not collect personal identifiers (such as legal names, physical addresses, or phone numbers).
-
-#### A. TextureSnap Camera & Local 3D Scanning Telemetry
-- **On-Device Surface & AR Photogrammetry Scanning:** TextureSnap requests camera access solely to enable real-time spatial photogrammetry capture, depth estimation, and physically-based rendering (PBR) texture extraction.
-- **Strictly Local Processing:** All image processing, normal map filtering, Poisson/TSDF voxel meshing, and texture atlas generation occur locally on your device hardware.
+#### A. Camera Access & Local 3D Scanning
+- **On-Device Surface & Photogrammetry Capture:** TextureSnap requires camera access solely to enable real-time spatial scanning, feature tracking, depth estimation, and physically-based rendering (PBR) texture extraction.
+- **Strictly Local Hardware Computation:** All image processing, normal map filtering, Delaunay/TSDF voxel meshing, and texture atlas generation occur locally on your device hardware.
 - **Zero Remote Image Transmission:** We **never** transmit, upload, or collect your camera feed, captured reference photos, or generated 3D meshes to external servers. Your scans and exports remain in your device's local application storage.
-- **System Photo Picker:** TextureSnap uses the Android system Photo Picker for importing user-selected photos. Only media specifically chosen by you is accessed.
+- **System Photo Picker:** TextureSnap uses the standard Android System Photo Picker for importing user-selected photos. Only media specifically chosen by you is accessed.
 
-#### B. Gameplay Progression & Offline Storage
-For games such as Orbital Slice, all progression data, including unlocked ship hulls, high scores, Talent Lab upgrades, and resonance core balances, is stored strictly locally on your device via standard local storage.
-
-#### C. Advertising and Monetization (Google AdMob & Play Billing)
-To support free daily scans and free-to-play features, our applications integrate the **Google Mobile Ads SDK (Google AdMob)** and **Google Play Billing**:
-- **Rewarded Video Ads:** Users may optionally choose to watch rewarded ads to unlock bonus daily scans or revivals.
-- **AdMob Data Processing:** Google AdMob may process device-specific information including Google Advertising ID (AAID), device model, OS version, coarse IP address, and ad performance metrics in compliance with Google's Advertising Policies.
-- **In-App Purchases:** All transactions for Pro licenses or material packs are handled directly by Google Play Billing. Solid Take Games does not collect or store credit card or payment credentials.
+#### B. Advertising and Monetization (Google AdMob & Google Play Billing)
+To support free daily scans and free-to-play features, TextureSnap integrates the **Google Mobile Ads SDK (Google AdMob)** and **Google Play Billing**:
+- **Rewarded Video Ads:** Users may optionally choose to watch rewarded ads to unlock bonus daily scans.
+- **AdMob Telemetry:** Google AdMob may process device-specific information including Google Advertising ID (AAID), device model, OS version, coarse IP address, and ad interaction metrics in compliance with Google's Advertising Policies.
+- **In-App Purchases:** All transactions for Pro licenses or material packs are handled directly by Google Play Billing. Solid Take Games does not collect or store payment card details.
 
 ---
 
@@ -42,7 +35,7 @@ The third-party services utilized operate under their respective privacy terms:
 ---
 
 ### 3. Children's Privacy
-Our applications are fully compliant with COPPA (Children's Online Privacy Protection Act) and Google Play Families policies. We do not knowingly collect personal information from children under 13.
+The App is compliant with COPPA (Children's Online Privacy Protection Act) and Google Play Families policies. We do not knowingly collect personal information from children under 13.
 
 ---
 
